@@ -1,4 +1,4 @@
-(defproject com.manigfeald/optimizer "0.1.0-SNAPSHOT"
+(defproject com.manigfeald/optimizer "0.1.0"
   :description "Optimize a parameter"
   :url "http://github.com/hiredman/optimizer"
   :license {:name "Eclipse Public License"
